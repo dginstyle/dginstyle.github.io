@@ -1,4 +1,4 @@
-# Nerfies
+# DGInStyle
 
 This is the repository that contains source code for the [DGInStyle website](https://dginstyle.github.io).
 
